@@ -13,6 +13,8 @@ public class principal {
 		System.out.println("estoy muy contento con mi programa dificilisimo");
 		
 		System.out.println("versión github");
+
+		System.out.println("versión editada por un compañero el domingo");
 	
 
 	}
