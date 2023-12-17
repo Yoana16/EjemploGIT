@@ -22,6 +22,8 @@ public class principal {
 		
 
 		System.out.println(" versión editada por un becario competente");
+		
+		System.out.println("Trabajo en equipo");
 
 	
 
