@@ -16,9 +16,13 @@ public class principal {
 
 		System.out.println("versión editada por un compañero el domingo");
 		
+
 		System.out.println(" sigo trabajando en la rama master");
 		
 		
+
+		System.out.println(" versión editada por un becario competente");
+
 	
 
 	}
