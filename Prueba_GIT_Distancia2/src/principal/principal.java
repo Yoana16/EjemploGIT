@@ -4,6 +4,14 @@ public class principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("comienzo de mi programa dificilisimo");
+		
+		System.out.println("sigo con de mi programa dificilisimo");
+		
+		System.out.println("añado funcionalidades a  mi programa dificilisimo");
+		
+		System.out.println("estoy muy contento con mi programa dificilisimo");
+	
 
 	}
 
